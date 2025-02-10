@@ -6,9 +6,9 @@ Cirilla is a Witcher-themed Telegram bot (because why not) written in Python, de
 
 
 ### Installation
-Using `wget`:
+Using `git`:
 ```
-wget https://raw.githubusercontent.com/partyh4t/Cirilla/refs/heads/main/cirilla.py
+git clone https://github.com/partyh4t/Cirilla.git
 ```
 
 Using `curl`:

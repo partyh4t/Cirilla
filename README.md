@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/2e5e00d8-59b3-4d73-a967-cc04d36f85e1" style="width:100%;">
 
-Cirilla is a Witcher-themed Telegram bot (because why not) written in Python, designed to handle a variety of IT-related tasks. I plan to incorporate some features pertaining to bug bounties in the near future. So if there are ever times you aren't at your PC, but still want to run certain tools on a target or receive push notifications about any potential changes made by a target, you can!
+Cirilla is a Witcher-themed Telegram bot (because why not) written in Python, designed to handle a variety of IT-related tasks. If there are ever times you aren't at your PC, but still want to run certain tools or receive push notifications about anything, you can!
 
 
 ### Installation
